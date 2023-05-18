@@ -1,5 +1,6 @@
 /// Base ChatGPT Url
-const kURL = "https://api.openai-proxy.com/v1/";
+const kURL = "https://api.openai.com/v1/";
+// const kURL = "https://api.openai-proxy.com/v1/";
 
 const kCompletion = 'completions';
 
